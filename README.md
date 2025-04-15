@@ -1,2 +1,12 @@
-# Sorting-Algorthims
-This repo contains nine sorting algorthims with some comments . There will be videos will be added to each algorthim to explain it and analysis it . The nine algorthims are listed in the readme , you can have a look :) !!
+# Sorting-Algorthims ⚡
+This repo contains nine sorting algorthims which are :
+#### ✅ 1.BucketSort 
+#### ✅ 2.CountingSort
+#### ✅ 3.InsertionSort
+#### ✅ 4.MergeSort
+#### ✅ 5.QuickSort
+#### ✅ 6.RadixSort
+#### ✅ 7.SelectionSort
+#### ✅ 8.ShellSort
+#### ✅ 9.BubbleSort
+#### you can have a trial for that algorithims and include the library which is called SortingSystem to test it 🤩🌊
