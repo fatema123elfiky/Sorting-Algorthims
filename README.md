@@ -9,4 +9,4 @@ This repo contains nine sorting algorthims which are :
 #### ✅ 7.SelectionSort
 #### ✅ 8.ShellSort
 #### ✅ 9.BubbleSort
-#### you can have a trial for that algorithims and include the library which is called SortingSystem to test it 🤩🌊
+#### you can have a trial for that algorithims and include the library which is called SortingAlgos to test it 🤩🌊
