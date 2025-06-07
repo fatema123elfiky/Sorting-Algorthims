@@ -11,7 +11,7 @@ using namespace std;
  * it does not depend on the data
  * so O(N^2) --> as the inner loop +outer loop
  *              n(n-1)/2 as loops from n-1 , n-2 ,n-3 ,... 1
- *  stable
+ *  not stable
  *  inplace
  *
  *  comparisons : n(n-1)/2
